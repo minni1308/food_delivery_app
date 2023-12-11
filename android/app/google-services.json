@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27276041104",
+    "project_id": "testingapp-77a3c",
+    "storage_bucket": "testingapp-77a3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27276041104:android:a31bbb6597670f85a4f115",
+        "android_client_info": {
+          "package_name": "com.example.deliveryapptesting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnFHHJOM0iV_rTsuZ9lEgIvm5qrm0PKQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
